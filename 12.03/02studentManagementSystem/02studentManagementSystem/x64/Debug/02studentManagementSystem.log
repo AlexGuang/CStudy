@@ -1,0 +1,7 @@
+﻿  02studentInfoManagementSystem.cpp
+E:\Master coding\C\12.03\02studentManagementSystem\02studentManagementSystem\02studentInfoManagementSystem.cpp(31,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Master coding\C\12.03\02studentManagementSystem\02studentManagementSystem\02studentInfoManagementSystem.cpp(33,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Master coding\C\12.03\02studentManagementSystem\02studentManagementSystem\02studentInfoManagementSystem.cpp(35,3): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Master coding\C\12.03\02studentManagementSystem\02studentManagementSystem\02studentInfoManagementSystem.cpp(67,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\Master coding\C\12.03\02studentManagementSystem\02studentManagementSystem\02studentInfoManagementSystem.cpp(62,6): warning C4101: “i”: 未引用的局部变量
+  02studentManagementSystem.vcxproj -> E:\Master coding\C\12.03\02studentManagementSystem\x64\Debug\02studentManagementSystem.exe

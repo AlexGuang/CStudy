@@ -1,0 +1,7 @@
+﻿  1.c
+E:\Master coding\C\11.26\cccc\Project2\Project2\1.c(16,27): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+E:\Master coding\C\11.26\cccc\Project2\Project2\1.c(17,20): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Master coding\C\11.26\cccc\Project2\Project2\1.c(25,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Master coding\C\11.26\cccc\Project2\Project2\1.c(26,37): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+E:\Master coding\C\11.26\cccc\Project2\Project2\1.c(33,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  Project2.vcxproj -> E:\Master coding\C\11.26\cccc\Project2\Debug\Project2.exe

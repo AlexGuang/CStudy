@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "090ebe96-9aaa-4216-856c-6ff661608a56": {
+      "ProjectGuid": "090ebe96-9aaa-4216-856c-6ff661608a56",
+      "DisplayName": "03arrayMalloc",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

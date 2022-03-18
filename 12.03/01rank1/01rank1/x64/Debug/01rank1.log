@@ -1,0 +1,20 @@
+﻿  sort.c
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(28,27): error C2037: “number”的左侧部分指定未定义的结构/联合“Student”
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(28,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(28,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(28,9): message : 缺失的可变参数 1 为格式字符串“%d”所需
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(29,27): error C2037: “name”的左侧部分指定未定义的结构/联合“Student”
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(29,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(29,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(29,9): message : 缺失的可变参数 1 为格式字符串“%c”所需
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(30,27): error C2037: “score”的左侧部分指定未定义的结构/联合“Student”
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(30,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(30,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(30,9): message : 缺失的可变参数 1 为格式字符串“%f”所需
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(31,27): error C2037: “gen”的左侧部分指定未定义的结构/联合“Student”
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(31,9): warning C4473: “printf”: 没有为格式字符串传递足够的参数
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(31,9): message : 占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(31,9): message : 缺失的可变参数 1 为格式字符串“%c”所需
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(55,9): warning C4047: “函数”:“int *”与“int (*)[6]”的间接级别不同
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(55,7): warning C4024: “sort”: 形参和实参 1 的类型不同
+E:\Master coding\C\12.03\01rank1\01rank1\sort.c(69,19): warning C4047: “=”:“char”与“char [5]”的间接级别不同
